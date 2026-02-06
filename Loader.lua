@@ -54,4 +54,4 @@ task.wait(2.2)
 Gui:Destroy()
 
 -- GANTI LINK RAW MAIN LUA DI SINI
-loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/DeHub-FishIt/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Polzx1/dehub_fishit.lua/refs/heads/main/Main.lua"))()
